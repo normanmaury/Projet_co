@@ -1,0 +1,4 @@
+CPU : STM32L
+	  151CCU6
+	  GH22L VG
+	  CHN 547
